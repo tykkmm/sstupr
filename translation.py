@@ -10,7 +10,7 @@ class Translation(object):
 
 ɢɪᴠᴇ ᴍᴇ ᴀɴʏ ʟɪɴᴋ ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ғɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ
 
-ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/kingvj01">ᴛᴇᴄʜ ᴠᴊ</a></b>
+ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/Akkiiiiiiiiiiiiiii">ᴛᴇᴄʜ ᴠᴊ</a></b>
 """
 
     TECH_VJ_HELP_TEXT = """
@@ -28,8 +28,6 @@ class Translation(object):
 
 💢 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ :-
 
-🔻 ʜᴏᴡ ᴛᴏ ᴜᴘʟᴏᴀᴅ ʏᴏᴜᴛᴜʙᴇ ʟɪɴᴋs <a href="https://t.me/VJCode/11">ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ</a>
-
 🔻 sᴇɴᴅ ᴍᴇ ᴛʜᴇ ɢᴏᴏɢʟᴇ ᴅʀɪᴠᴇ | ʏᴛᴅʟ | ᴅɪʀᴇᴄᴛ ʟɪɴᴋs.
 
 🔻sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ᴏᴘᴛɪᴏɴ.
@@ -39,57 +37,30 @@ class Translation(object):
 
     TECH_VJ_ABOUT_TEXT = """
 <b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
-
-🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/vj_botz">ᴠᴊ ʙᴏᴛᴢ</a>
-
 🌺 ʜᴇʀᴏᴋᴜ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
-
 📑 ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3.10.5</a>
-
 🇵🇲 ғʀᴀᴍᴇᴡᴏʀᴋ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
-
-👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/kingvj01">ᴛᴇᴄʜ ᴠᴊ</a></b>
+👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/Akkiiiiiiiiiiiiiii">Shivam</a></b>
 
 """
 
     
     TECH_VJ_START_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
-        ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
-        ], [
             InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
-        ], [
-            InlineKeyboardButton('🇮🇳 ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ 💖', url='https://instagram.com/tech.vj')
         ]]
     )
     TECH_VJ_HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
-        ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
-        ], [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
             InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
-        ], [
-            InlineKeyboardButton('📛 ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     TECH_VJ_ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
-        ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
-        ], [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
             InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help')
-        ], [
-            InlineKeyboardButton('📛 ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     
