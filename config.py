@@ -38,7 +38,7 @@ class Config(object):
     
     # proxy for accessing youtube-dl in GeoRestricted Areas
     # Get your own proxy from https://github.com/rg3/youtube-dl/issues/1091#issuecomment-230163061
-    TECH_VJ_HTTP_PROXY = ""
+    TECH_VJ_HTTP_PROXY = "https://SU2TuiBYWmMoNiNYPWuv2YXT:s799YY2jGXzHSWmWLJJQ5bye@in123.nordvpn.com:89""
     
     # maximum message length in Telegram
     TECH_VJ_MAX_MESSAGE_LENGTH = 4096
